@@ -1,6 +1,6 @@
-# VIT-Password-Scraper
+# VOLSBB PASSWORD SCRAPER
 
 ## For educational purposes
 ------
 
-Important variables are hidden to avoid exploitation, but that's how insecure VIT is :ok:
+Important variables are hidden to avoid exploitation, but that's how insecure this WiFi is :ok:
